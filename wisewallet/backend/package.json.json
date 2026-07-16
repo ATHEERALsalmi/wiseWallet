@@ -1,0 +1,12 @@
+{
+  "name": "wisewallet-backend",
+  "version": "1.0.0",
+  "description": "Backend API لتطبيق wiseWallet — بدون أي مكتبات خارجية (Node.js core فقط)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
